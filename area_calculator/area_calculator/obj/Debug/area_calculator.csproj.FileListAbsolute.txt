@@ -1,0 +1,6 @@
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\bin\Debug\area_calculator.dll
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\bin\Debug\area_calculator.pdb
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\obj\Debug\area_calculator.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\obj\Debug\area_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\obj\Debug\area_calculator.dll
+C:\Users\Daniil\source\repos\area_calculator\area_calculator\obj\Debug\area_calculator.pdb
